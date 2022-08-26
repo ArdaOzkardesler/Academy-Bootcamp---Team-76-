@@ -9,9 +9,8 @@ Cerebellum
 ## Takım Elemanları
 
 - Başak Ateş: Scrum Master 
-- Şeyma Nur Algül: Tasarım (Developer) / Product Owner
+- Şeyma Nur Algül: 3D Artist / Product Owner
 - Arda Özkardeşler: Developer
-- Ensar Akdere: Developer
 
 ## Ürün İsmi
 Willy's Farm
